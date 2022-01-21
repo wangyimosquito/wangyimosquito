@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangyimosquito
-- 👀 I’m interested in algorithm
+- 👀 I’m curious in everything!
 - 🌱 I’m currently learning conputer sicence as an undergraduate.
 - 📫 How to reach me wwangyiwen@sjtu.edu.cn
 
