@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangyimosquito
-- 👀 I’m curious in everything!
+- 👀 I’m learning big data related courses in school and self-teaching myself SDE related skills!
 - 🌱 I’m currently learning conputer sicence as an graduate student.
 - 📫 How to reach me ywa422@sfu.ca or yiwenw315@gmail.com
 
