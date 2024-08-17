@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangyimosquito
-- 👀 I’m learning big data related courses in school and self-teaching myself SDE related skills!
-- 🌱 I’m currently learning conputer sicence as an graduate student.
+- 👀 I finished my Master of Computer Science degree @ Simon Fraser University in May 2024.
+- 🌱 I am self-teaching myself SDE-related skills rn.
 - 📫 How to reach me ywa422@sfu.ca or yiwenw315@gmail.com
 
 <!---
